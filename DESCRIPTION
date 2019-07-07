@@ -1,0 +1,16 @@
+Package: shopping
+Title: Probabilistic CLV models
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Iker",
+           family = "Usobiaga",
+           role = c("aut", "cre"),
+           email = "ikeruso@gmail.com")
+Description: Probabilistic CLV models.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: stats
+Depends: dplyr, BMS
+Suggests: testthat
+RoxygenNote: 6.1.1
